@@ -3,3 +3,5 @@ Student ID: 5010926
 Lab: Lab 3
 
 This program simulates a simple craps game. To play change directory to this folder, then use make to create a executable called prog. Run with "./prog"
+
+https://github.com/RLoewen/CS2010_Lab3.git
