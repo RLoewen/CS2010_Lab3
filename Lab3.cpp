@@ -1,3 +1,11 @@
+/*
+CS2010 Lab 3
+Ruben Loewen 5010926
+This program simulates a game of craps
+
+*/
+
+
 #include <iostream>
 #include <cstdlib>
 using namespace std;
